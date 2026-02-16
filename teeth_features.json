@@ -1,0 +1,42 @@
+[
+  {
+    "id": "test_model_001",
+    "dimensions": {
+      "width_MD": 64.36,
+      "height": 56.04,
+      "depth_BL": 22.59
+    },
+    "ratios": {
+      "aspect_ratio": 2.85,
+      "height_to_width": 0.87
+    },
+    "volume": 41189.71,
+    "geometry_fingerprint": [
+      64.36,
+      56.04,
+      22.59,
+      2.85,
+      0.87
+    ]
+  },
+  {
+    "id": "LXT_V3_1_Lower_1",
+    "dimensions": {
+      "width_MD": 5.31,
+      "height": 6.01,
+      "depth_BL": 19.77
+    },
+    "ratios": {
+      "aspect_ratio": 0.27,
+      "height_to_width": 1.13
+    },
+    "volume": 257.61,
+    "geometry_fingerprint": [
+      5.31,
+      6.01,
+      19.77,
+      0.27,
+      1.13
+    ]
+  }
+]
