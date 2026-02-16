@@ -1,0 +1,78 @@
+[
+  {
+    "id": "test_model_001",
+    "basic_dimensions": {
+      "width_MD": 64.36,
+      "height": 56.04,
+      "depth_BL": 22.59
+    },
+    "advanced_geometry": {
+      "volume": 41189.71,
+      "surface_area": 7301.81,
+      "sphericity": 0.7899,
+      "oriented_box_dim": [
+        22.11,
+        53.49,
+        64.11
+      ]
+    },
+    "ratios": {
+      "aspect_ratio": 2.85,
+      "height_to_width": 0.87
+    },
+    "geometry_fingerprint": [
+      64.3562,
+      56.0423,
+      22.5897,
+      2.8489,
+      0.8708,
+      41189.7089,
+      7301.8056,
+      0.7899,
+      0.0,
+      0.0,
+      0.0,
+      22.1131,
+      53.4864,
+      64.1068
+    ]
+  },
+  {
+    "id": "LXT_V3_1_Lower_1",
+    "basic_dimensions": {
+      "width_MD": 5.31,
+      "height": 6.01,
+      "depth_BL": 19.77
+    },
+    "advanced_geometry": {
+      "volume": 257.61,
+      "surface_area": 258.81,
+      "sphericity": 0.7565,
+      "oriented_box_dim": [
+        5.34,
+        5.42,
+        20.0
+      ]
+    },
+    "ratios": {
+      "aspect_ratio": 0.27,
+      "height_to_width": 1.13
+    },
+    "geometry_fingerprint": [
+      5.3075,
+      6.0136,
+      19.7674,
+      0.2685,
+      1.133,
+      257.6143,
+      258.8123,
+      0.7565,
+      0.0,
+      0.0,
+      0.0,
+      5.3384,
+      5.4194,
+      20.001
+    ]
+  }
+]
